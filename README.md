@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
+# Hi, I'm Kobi Ebuzoeme 👋
+
+Cybersecurity graduate from Nile University of Nigeria with hands-on experience in penetration testing and vulnerability assessment.
+
+## 🔐 Skills
+- Network reconnaissance (Nmap)
+- Vulnerability scanning (Nessus, OpenVAS)
+- Web security testing (OWASP ZAP, WebGoat)
+- Exploitation and post-exploitation (Metasploit, Meterpreter)
+
+## 📂 Featured Projects
+- Cybersecurity Labs Portfolio
+- Metasploit Windows Exploitation Lab
+- Client-Side Vulnerability Exploitation
+- Linux Privilege Escalation Lab
+
+## 📫 Contact
+Email: kobiebuzoeme@gmail.com
 **kobiebuzoeme-cybersec/kobiebuzoeme-cybersec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
